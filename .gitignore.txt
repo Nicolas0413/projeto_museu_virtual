@@ -1,0 +1,8 @@
+# GameMaker Studio 2
+*.yyp_backup
+*.tmp
+*.log
+.idea/
+.cache/
+.local/
+.yyc/
